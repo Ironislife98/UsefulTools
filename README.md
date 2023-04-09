@@ -10,5 +10,5 @@ I'm not very creative, and I struggle to design websites. DaisyUI makes it easie
 ## [Heroicons](https://heroicons.com)
 From the makers of Tailwind CSS, Heroicons gives MIT Licensed svg icons for free. Simple.
 
-##[TailwindCSS/typography](https://tailwindcss.com/docs/typography-plugin)
+## [TailwindCSS/typography](https://tailwindcss.com/docs/typography-plugin)
 From tailwindcss comes the typography plugin. It adds styling to h1 and other tags which tailwind gets rid of.
